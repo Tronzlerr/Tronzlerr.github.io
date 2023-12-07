@@ -5,6 +5,9 @@
     <loc>https://examplesite.com/post/game_record/</loc>
     <lastmod>2023-12-07T19:49:03+08:00</lastmod>
   </url><url>
+    <loc>https://examplesite.com/post/gaming_list/</loc>
+    <lastmod>2023-12-07T19:49:03+08:00</lastmod>
+  </url><url>
     <loc>https://examplesite.com/</loc>
     <lastmod>2023-12-07T19:49:03+08:00</lastmod>
   </url><url>
@@ -17,8 +20,14 @@
     <loc>https://examplesite.com/tags/%E6%B8%B8%E6%88%8F/</loc>
     <lastmod>2023-12-07T19:49:03+08:00</lastmod>
   </url><url>
+    <loc>https://examplesite.com/categories/</loc>
+  </url><url>
+    <loc>https://examplesite.com/page/</loc>
+  </url><url>
+    <loc>https://examplesite.com/page/search/</loc>
+  </url><url>
     <loc>https://examplesite.com/archives/</loc>
   </url><url>
-    <loc>https://examplesite.com/categories/</loc>
+    <loc>https://examplesite.com/search/</loc>
   </url>
 </urlset>

@@ -18,8 +18,19 @@
       <pubDate>Thu, 07 Dec 2023 19:49:03 +0800</pubDate>
       
       <guid>https://examplesite.com/post/game_record/</guid>
+      <description>每年末记录一下当年玩的游戏</description>
+    </item>
+    
+    <item>
+      <title>【游戏列表】游玩记录</title>
+      <link>https://examplesite.com/post/gaming_list/</link>
+      <pubDate>Thu, 07 Dec 2023 19:49:03 +0800</pubDate>
+      
+      <guid>https://examplesite.com/post/gaming_list/</guid>
       <description>Desc Text.</description>
     </item>
+    
+    
     
     
   </channel>
